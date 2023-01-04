@@ -1,4 +1,4 @@
-# PDF-Feature-Extraction
+# PDF-Feature-Extraction 
 The attached notebooks do feature extraction for the following features in Python
 1.	Author name in case of a research article
 2.	Title
@@ -36,3 +36,37 @@ We also edit the pdf by:
 4.	Adding watermark
 5.	Rotating single and all pages
 6.	Removing images
+
+> You can find the following features extracted in notebook 1:
+Author name in case of a research article
+Title
+Creator name
+Number of pages
+Current Page number
+Text from required page
+URL
+Figures
+Tables
+Whole Text
+Whole text without header and footer
+Encryption/ decryption
+Check box
+Important page
+PDF editing
+
+You can find the following features extracted in notebook 2:
+Abstractive Text Summary
+Extractive Text Summary
+Entities
+Word count
+Most Common Words and their count
+Word after a specified word
+Comparison of occurrence of words
+
+
+You can find the following features extracted in notebook 3:
+Type of document
+Sentiment analysis
+Area of figure
+Oldest reference
+Caption length
