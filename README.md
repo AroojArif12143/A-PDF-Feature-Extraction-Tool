@@ -1,4 +1,5 @@
 # PDF-Feature-Extraction
+The attached notebooks do feature extraction for the following features in Python
 1.	Author name in case of a research article
 2.	Title
 3.	Creator name
