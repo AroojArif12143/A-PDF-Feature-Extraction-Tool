@@ -66,6 +66,8 @@ Comparison of occurrence of words
 
 📂You can find the following features extracted in notebook 3:
 Type of document
+
+📂You can find the following features extracted in notebook 3:
 Sentiment analysis
 Area of figure
 Oldest reference
