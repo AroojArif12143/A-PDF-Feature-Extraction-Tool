@@ -37,7 +37,7 @@ We also edit the pdf by:
 5.	Rotating single and all pages
 6.	Removing images
 
-📂 You can find the following features extracted in notebook 1:
+📂You can find the following features extracted in notebook 1:
 Author name in case of a research article
 Title
 Creator name
@@ -63,17 +63,15 @@ Most Common Words and their count
 Word after a specified word
 Comparison of occurrence of words
 
-
 📂You can find the following features extracted in notebook 3:
 Type of document
-
-📂You can find the following features extracted in notebook 3:
-Area of figure
-Oldest reference
-Caption length
 
 📂You can find the following features extracted in notebook 4:
 Sentiment analysis
 Topic Modelling
 Model Complexity and Coherence Score
 
+📂You can find the following features extracted in notebook 5:
+Area of figure
+Oldest reference
+Caption length
