@@ -12,7 +12,7 @@ The attached notebooks do feature extraction for the following features in Pytho
 10.	Whole Text
 11.	Whole text without header and footer
 12.	Encryption/ decryption
-13.	*Abstractive text summary
+13.	Abstractive text summary
 14.	Extractive text summary
 15.	Text from image of text
 16.	Entities
