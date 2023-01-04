@@ -68,7 +68,12 @@ Comparison of occurrence of words
 Type of document
 
 📂You can find the following features extracted in notebook 3:
-Sentiment analysis
 Area of figure
 Oldest reference
 Caption length
+
+📂You can find the following features extracted in notebook 4:
+Sentiment analysis
+Topic Modelling
+Model Complexity and Coherence Score
+
