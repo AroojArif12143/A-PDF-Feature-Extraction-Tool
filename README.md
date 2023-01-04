@@ -25,6 +25,7 @@ The attached notebooks do feature extraction for the following features in Pytho
 23.	Important page
 24.	Number of sentences in the whole document
 25.	Word count
+26.	Most Common Words and their count
 We also edit the pdf by:
 1.	Extracting important page and save as new pdf as well as split all pages in new pdf
 2.	Merging PDFs
