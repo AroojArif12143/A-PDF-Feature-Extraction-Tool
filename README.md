@@ -37,7 +37,7 @@ We also edit the pdf by:
 5.	Rotating single and all pages
 6.	Removing images
 
-📂You can find the following features extracted in notebook 1:
+1️⃣📂You can find the following features extracted in notebook 1:
 Author name in case of a research article
 Title
 Creator name
@@ -54,7 +54,7 @@ Check box
 Important page
 PDF editing
 
-📂You can find the following features extracted in notebook 2:
+2️⃣📂You can find the following features extracted in notebook 2:
 Abstractive Text Summary
 Extractive Text Summary
 Entities
@@ -63,15 +63,15 @@ Most Common Words and their count
 Word after a specified word
 Comparison of occurrence of words
 
-📂You can find the following features extracted in notebook 3:
+3️⃣📂You can find the following features extracted in notebook 3:
 Type of document
 
-📂You can find the following features extracted in notebook 4:
+4️⃣📂You can find the following features extracted in notebook 4:
 Sentiment analysis
 Topic Modelling
 Model Complexity and Coherence Score
 
-📂You can find the following features extracted in notebook 5:
+5️⃣📂You can find the following features extracted in notebook 5:
 Area of figure
 Oldest reference
 Caption length
