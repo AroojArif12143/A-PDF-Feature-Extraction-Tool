@@ -29,7 +29,7 @@ The attached notebooks do feature extraction for the following features in Pytho
 27.	Word after a specified word
 28.	Comparison of occurrence of words
 
-We also edit the pdf by:
+It also edits the pdf by:
 1.	Extracting important page and save as new pdf as well as split all pages in new pdf
 2.	Merging PDFs
 3.	Adjusting size
