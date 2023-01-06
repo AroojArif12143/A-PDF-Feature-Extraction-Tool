@@ -28,6 +28,7 @@ The attached notebooks do feature extraction for the following features in Pytho
 26.	Most Common Words and their count
 27.	Word after a specified word
 28.	Comparison of occurrence of words
+29. Keywords extraction
 
 It also edits the pdf by:
 1.	Extracting important page and save as new pdf as well as split all pages in new pdf
