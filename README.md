@@ -71,8 +71,3 @@ Type of document
 Sentiment analysis
 Topic Modelling
 Model Complexity and Coherence Score
-
-5️⃣📂You can find the following features extracted in notebook 5:
-Area of figure
-Oldest reference
-Caption length
